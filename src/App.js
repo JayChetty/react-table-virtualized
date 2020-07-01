@@ -6,7 +6,7 @@ import { FixedSizeList } from "react-window";
 import makeData from "./makeData";
 
 const Styles = styled.div`
-  padding: 2rem;
+  padding: 1rem;
 
   .table {
     display: inline-block;
